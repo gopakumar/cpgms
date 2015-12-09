@@ -1,0 +1,12 @@
+You are given an input file containing a list of words. You are expected to write a program that check whether the words in the file are “anagrams” of a palindrome. If they are, then your program needs to output the word and its one palindrome anagram.
+ 
+Definitions :
+Anagram of a word, is obtained by re-arranging the letters in the word. For example, “dad” and “add” are anagrams.
+ 
+Palindromes are words that read the same from left to right and right to left. Example, “dad”, “malayalam”.
+ 
+You are expected to develop a linear time complexity algorithm with minimal space complexity. Only linear algorithms would give you more than 20/40  for the choice of DS and algorithms.
+ 
+The maximum length of each word is 5000 characters. You can assume that  only alphabets[a-z] are present in the input strings.
+ 
+The number of strings in the input file is limited 10000.
