@@ -1,0 +1,23 @@
+#sudo apt-get install git
+make a local directory for the git
+goto that dir and 
+# git init
+
+then config the git
+#git config --global user.name "user_name"
+#git config --global user.email "email_id"
+
+then download the git repo
+#git clone link.git
+
+then add new file
+
+#git add file.txt
+
+commit new file 
+
+#git commit -m "message" file.txt
+
+git push link.git
+
+
